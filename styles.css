@@ -1,0 +1,12 @@
+.col-sm {
+    border: 5px solid;
+    width: 5px;
+    background: lightblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table{
+    border: 5px solid;
+    width: 5px ;
+    font-family: 'Philosopher', sans-serif;
+}
