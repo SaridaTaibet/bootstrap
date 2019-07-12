@@ -1,12 +1,4 @@
-.col-sm{
-    border: 0.5px solid;
-    width: 0.5px;
-    background: cyan;
-    font-family: 'Roboto', sans-serif;
 
-}
-.table{
-    border: 4px solid;
-    width:  4px;
-    font-family: 'Philosopher', sans-serif;
+.col{
+    border: solid;
 }
