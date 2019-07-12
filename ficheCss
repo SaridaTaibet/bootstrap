@@ -1,0 +1,13 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+
+
+
+/*Pour changer la taille du carrousel*/
+.bd-example {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
