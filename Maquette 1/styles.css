@@ -1,0 +1,30 @@
+
+.img-fluid {
+    width: 100%;
+}
+
+.background {
+    background: url("../src_assets_img_background-trunk.jpg");
+    background-size: cover;
+}
+
+.background-2 {
+    background: url("../src_assets_img_background-louis-vuitton.svg") #4e2716;
+    background-size: cover;
+}
+
+.main-title {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    margin: 8rem 0;
+
+}
+
+.main-title-2 {
+    margin: 6rem 0;
+    text-align: center;
+}
+
+
+
