@@ -4,12 +4,12 @@
 }
 
 .background {
-    background: url("../src_assets_img_background-trunk.jpg");
+    background: url("../Image/src_assets_img_background-trunk.jpg");
     background-size: cover;
 }
 
 .background-2 {
-    background: url("../src_assets_img_background-louis-vuitton.svg") #4e2716;
+    background: url("../Image/src_assets_img_background-louis-vuitton.svg") #4e2716;
     background-size: cover;
 }
 

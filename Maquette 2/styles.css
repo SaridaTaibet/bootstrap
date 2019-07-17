@@ -1,0 +1,18 @@
+.background {
+    background: url("../Image/src_assets_img_background-louis-vuitton.svg") #4e2716;
+}
+
+.title {
+    color: white;
+}
+
+.col-4{
+    margin: 3rem 0;
+}
+
+.background-2 {
+    background-color: #f1f1f1;
+}
+.border {
+    border: 2px;
+}
