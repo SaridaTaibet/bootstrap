@@ -1,19 +1,31 @@
 .background {
-    background: url("../Image/src_assets_img_background-louis-vuitton.svg") #4e2716;
+    background: url("../Image/src_assets_img_background-louis-vuitton.svg") rgb(68, 52, 47);
+}
+.background-2 {
+    background-color: white;
 }
 
 .title {
     color: white;
 }
 
-.col-4{
-    margin: 3rem 0;
-  width: 2%;
+.text, .text1 {
+    color: white;
 }
 
-.background-2 {
-    background-color: #f1f1f1;
+.text2 {
+    color: rgb(163, 124, 113);
 }
-.border {
+.col-sm-2, .col-sm-3{
+    color: rgb(163, 124, 113);
+}
 
+
+.background-3 {
+    background-color: rgb(233, 233, 233);
+}
+
+
+.badge {
+    background-color: rgb(236, 43, 83)!important;
 }
