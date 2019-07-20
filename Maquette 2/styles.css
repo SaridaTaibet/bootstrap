@@ -8,6 +8,13 @@
 .title {
     color: white;
 }
+.badge-danger {
+    margin: 1rem 0;
+}
+
+.two-block {
+    margin: 3rem 0;
+}
 
 .text, .text1 {
     color: white;
@@ -20,10 +27,6 @@
     color: rgb(163, 124, 113);
 }
 
-
-.background-3 {
-    background-color: rgb(233, 233, 233);
-}
 
 
 .badge {
