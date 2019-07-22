@@ -10,6 +10,8 @@
 }
 .badge-danger {
     margin: 1rem 0;
+    width: 40px;
+
 }
 
 .two-block {
@@ -19,16 +21,35 @@
 .text, .text1 {
     color: white;
 }
+.h6{
+    margin: 1rem 0;
+}
 
 .text2 {
     color: rgb(163, 124, 113);
+
 }
+.image{
+    width: 50px;
+    height: 50px;
+}
+.text-center4{
+
+}
+
+
 .col-sm-2, .col-sm-3{
     color: rgb(163, 124, 113);
 }
 
 
-
 .badge {
     background-color: rgb(236, 43, 83)!important;
 }
+
+.dropdown-divider{
+    width: 1000px;
+    height: 25px;
+
+}
+
