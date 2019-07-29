@@ -1,5 +1,5 @@
 .background {
-    background: url("../Image/src_assets_img_background-louis-vuitton.svg") rgb(68, 52, 47);
+    background: url("../assets/src_assets_img_background-louis-vuitton.svg") rgb(68, 52, 47);
 }
 .background-2 {
     background-color: rgb(233, 233, 233);
@@ -78,7 +78,7 @@
     padding-top: 18rem;
 }
 .two-blocks2 {
-    margin-bottom: 4rem;
+    margin-bottom: 5rem;
 }
 
 .two-blocks {

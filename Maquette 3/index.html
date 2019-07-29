@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
             integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
@@ -25,35 +25,89 @@
 <body>
 
 <div class=" container ">
-    <div class="col-sm-12">
-        <div class="row justify-content-end">
-            <div class="col-sm-0.5 ">
-                <img src="../1200px-Multiplication_Sign.svg.png" height="20" width="20"/>
-            </div>
+
+    <div class="row justify-content-end">
+        <div class="col-sm-1">
+            <img src="../assets/1200px-Multiplication_Sign.svg.png" class=height="20" width="20"/>
         </div>
     </div>
-
+    <div class="row text-center ">
+        <div class="col text text-monospace">
+            <h4 class="font-weight-light">DEMANDE <br>DE CREATION DE COMPTE</h4>
+        </div>
+    </div>
     <div class="row justify-content-center">
-        <div class="text1 text-center text-monospace">
-            <h5 class="font-weight-light">DEMANDE <br>DE CREATION DE COMPTE</h5>
+        <div class="col-sm-6 text-center">
+            <img src="../assets/src_assets_img_icon-separator.svg" class="image svg" alt="image">
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm-12 text-center">
-            <img src="../src_assets_img_icon-separator.svg" alt="">
+    <div class="from row justify-content-center">
+        <div class=" col-sm-4 mb-10 text-center ">
+            <form>
+                <div class="col-sm-12 text-center">
+                    <label for="name"></label>
+                    <input type="text" class="form-control font-italic color-form" id="name"
+                           placeholder="*Nom...">
+
+                    <label for="lastname"></label>
+                    <input type="text" class="form-control font-italic color-form" id="lastname"
+                           placeholder="*Prénom...">
+
+                    <label for="e-mail"></label>
+                    <input type="text" class="form-control font-italic color-form" id="E-mail" placeholder="*E-mail...">
+
+
+                    <label for="phone"></label>
+                    <input type="number" class="form-control font-italic color-form" id="phone"
+                           placeholder="*Téléphone...">
+
+
+                    <label for="mobil"></label>
+                    <input type="number" class="form-control font-italic color-form" id="mobil" placeholder="*Mobil...">
+
+                    <label for="department"></label>
+                    <input type="text" class="form-control font-italic color-form" id="Department"
+                           placeholder="Département...">
+
+                    <div class="form-group">
+                        <label for="Adress"></label>
+                        <input type="text" class="form-control font-italic color-form" id="Adress"
+                               placeholder="Adresse...">
+                    </div>
+                    <form>
+                        <div class="form row">
+                            <div class="col">
+                                <input type="number" class="form-control font-italic color-form"
+                                       placeholder="*Code Postal...">
+                            </div>
+                            <div class="col">
+                                <input type="text" class="form-control font-italic color-form" placeholder="*Ville...">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="contry"></label>
+                            <input type="text" class="from-control form-control mb-12 font-italic color-form"
+                                   id="contry"
+                                   placeholder="*Pays...">
+                        </div>
+                        <div class="form row">
+                            <div class="col">
+                                <input type="text" class="form-control text-center bg" placeholder="ANNULER">
+                            </div>
+                            <div class="col">
+                                <input type="text" class="form-control font-col bg-1"
+                                       placeholder="LOREM IPSUM">
+                            </div>
+                        </div>
+                    </form>
+
+
+                </div>
+            </form>
         </div>
     </div>
-
-
-
-<div class="row">
-
-
 </div>
-
-</div>
-
-
 </body>
 
 </html>

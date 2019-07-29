@@ -1,4 +1,33 @@
-.text1 {
-    padding-top: 3rem;
-    color: #535659;
+.col  {
+    letter-spacing: 2px;
+    font-size: 1px;
+}
+.form-control {
+    margin-bottom: -1rem;
+
+
+}
+.form-group-1 {
+    padding-bottom: 9rem;
+
+}
+
+
+.image {
+    padding: 25px;
+}
+
+.color-form {
+    background-color: #cecece !important;
+}
+.bg {
+    background-color: #848484 !important;
+    padding: 4px;
+}
+.bg-1{
+    background-color: black !important;
+    padding: 6px;
+}
+.form-group {
+    padding-bottom: 2rem;
 }
